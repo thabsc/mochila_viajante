@@ -42,3 +42,7 @@ Thabata Carrion
 20. rm -rf (elimina o repositório e tudo que tem dentro dela) 
 
 21. vi arquivo.txt (editar arquivo de texto) - apertar esc até aparecer editor
+
+22. git checkout colocar_nome_do_branch_q_vc_quer (entrar no novo branch)
+
+23. git branch (entrar branch novo)
