@@ -46,3 +46,7 @@ Thabata Carrion
 22. git checkout colocar_nome_do_branch_q_vc_quer (entrar no novo branch)
 
 23. git branch (entrar branch novo)
+
+24. $ git clone https://github.com/username/repo.git
+Username: your_username
+Password: your_token
