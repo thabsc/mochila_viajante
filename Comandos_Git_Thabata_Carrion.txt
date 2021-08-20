@@ -1,0 +1,44 @@
+Thabata Carrion
+--------------
+
+01. pwd (pra saber onde estou)
+
+02. cd Desktop (estamos na área de trabalho) ou ir na área de trabalho e clicar "git bash here"
+
+03. mkdir nome_da_pasta (criar pasta)
+
+04. ls (verificar se tem algo na pasta) ls -a com arquivos ocultos
+
+05. cd nome_da_pasta (agora estou trabalhando dentro da pasta)
+
+06. git init (cria um repositório local na pasta criada)
+
+07. touch nome_do_arquivo (cria o arquivo)
+
+08. git config --global user.name "Nome Sobrenome"
+
+09. git config --global user.email "seuemail@gmail.com"
+
+10. git add . (adiciona todos os arquivos da pasta ao índice) ou git add nome_do_arquivo.txt (adiciona apenas o arquivo específico)
+
+11. git status (lista os arquivos novos e modificados)
+
+12. git commit -m “Commit inicial” (confirmar as mudanças - (grava permanentemente o arquivo no histórico de versões com uma mensagem)
+
+13. git remote add origin https://github.com/... (definindo o destino / repositório remoto)
+
+14. git push origin nome_branch (diz ao git para enviar todos os commits no branch local atualmente verificado - seu sistema de arquivos)
+
+15. origin nome_branch (raiz) - verificar qual está funcionando (main ou master ou algum que vc tenha criado)
+
+16. git pull (incorpora mudanças de um repositório remoto para o branch local)
+
+17. git status
+
+18. git merge (fundir versões - vai combinar várias sequências de commits em um histórico unificado)
+
+19. esc > :wq > enter (fechar o editor de confirmação permanentemente o arquivo no histórico de versões com uma mensagem)
+
+20. rm -rf (elimina o repositório e tudo que tem dentro dela) 
+
+21. vi arquivo.txt (editar arquivo de texto) - apertar esc até aparecer editor
