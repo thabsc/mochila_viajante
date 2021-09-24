@@ -1,0 +1,16 @@
+Thábata Carrion Mendes de Oliveira
+
+ip privado: 192.168.1.115 Classe C
+ip publico: 45.227.251.139 Classe A
+mascara subrede:  255.255.255.0
+MAC: A4-63-A1-62-13-78
+
+Os IPs público e privado pertencem à qual classe de rede? Classe A (público) e Classe C (privado)
+Que informações podemos obter do nosso endereço MAC?
+
+Outras utilidades do endereço MAC
+Os switches de rede armazenam uma lista de endereços MAC que foram vistos em cada porta. ...
+As conexões sem fio, Wi-Fi, normalmente utilizam os endereços MAC para controlar o acesso. ...
+Servidores DHCP utilizam o endereço MAC para identificar dispositivos e fornecer IPs fixos para eles.
+
+Vamos acessar o endereço https://macvendors.com e verificar qual é a marca de nossa placa de rede. Fabricante: Inventus Power Eletronica do Brasil LTDA
