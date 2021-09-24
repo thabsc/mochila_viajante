@@ -1,9 +1,9 @@
 Thábata Carrion Mendes de Oliveira
 
-ip privado: 192.168.1.115 Classe C
-ip publico: 45.227.251.139 Classe A
+ip privado: 192.168.0.000 Classe C -- troquei pra zero
+ip publico: 45.000.000.000 Classe A -- troquei pra zero
 mascara subrede:  255.255.255.0
-MAC: A4-63-A1-62-13-78
+MAC: A0-60-A0-60-10-70 -- troquei pra zero
 
 Os IPs público e privado pertencem à qual classe de rede? Classe A (público) e Classe C (privado)
 Que informações podemos obter do nosso endereço MAC?
